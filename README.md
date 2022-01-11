@@ -2,7 +2,7 @@
 
 
 
-```
+```markdown
 ## Introduction
 
 For this course, we'll be taking a dive into Unity as a game development platform. We'll be making a top-down shooter game over the next 12 weeks.
